@@ -7,3 +7,8 @@ fig = plt.figure()
 axes = fig.add_axes([0.1, 0.1, 0.9, 0.9])
 axes.plot(x1, y1, 'r')
 plt.show()
+'''
+如何在独立的浮窗中显示Plot绘图
+File->Settings->Tools->Python Scientific
+取消掉Show plots in toolwindow选项
+'''
