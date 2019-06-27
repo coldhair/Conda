@@ -5,6 +5,6 @@ while b<100:
     print(b)
     a,b=b,a+b
     print('a=',a)
-    print('b=',b-a,'+',a)
+    print('b=',b-a,'+',a) #解释了b怎么来的
 
 print('结束了！')
