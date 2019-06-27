@@ -6,3 +6,5 @@ while b<100:
     a,b=b,a+b
     print('a=',a)
     print('b=',b-a,'+',a)
+
+print('结束了！')
