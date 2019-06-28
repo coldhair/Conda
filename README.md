@@ -1,4 +1,9 @@
 # Python学习记录
+
+### 2019年6月27日
+
+下载安装了Anaconda，并下载安装破解了Pyacharm for Anaconda：https：//www.jetbrains.com/pycharm/promo/anaconda/
+
 ### 2019年6月28日：
 Python语言越来越流行了，听说现在的小学生都开始学习Python了，一种语言学习的人越多，使用的人越多，就能越快的发展，就越可能产出精彩绝妙的东西。Python这么火，我也要凑个热闹，好好学一下，即便做不成东西，将来也可以教孩子。
 
@@ -11,3 +16,5 @@ https://github.com/coldhair/Conda/tree/master
 
 技巧：在Pycharm上使用`Ctrl + Alt + L `格式化代码，代码会立即变的很好看，很漂亮。
 - Try013 在 Python 中，使用了 yield 的函数被称为生成器（generator）
+
+学习至：https://www.runoob.com/python3/python3-function.html
