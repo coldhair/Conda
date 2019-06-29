@@ -25,7 +25,7 @@ def dayinInfo(name,age=36):
     print('名字：',name)
     print('年龄：',age)
     return
-#调用dayinInfo函数
+#调用dayinInfo函数 函数参数的使用不需要使用指定顺序
 dayinInfo(age=50,name='吕艳朋')
 print('---------------')
 dayinInfo(name='吕艳风')
