@@ -1,6 +1,7 @@
 # 绘制五角星
 from turtle import *
-color('red','red')
+
+color('red', 'red')
 begin_fill()
 for i in range(5):
     fd(200)
