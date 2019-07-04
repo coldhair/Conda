@@ -18,3 +18,7 @@ https://github.com/coldhair/Conda/tree/master
 - Try013 在 Python 中，使用了 yield 的函数被称为生成器（generator）
 
 学习至：https://www.runoob.com/python3/python3-function.html
+
+- Try047 输出乘法口诀
+- Try048 输出不同形状的三角形
+
