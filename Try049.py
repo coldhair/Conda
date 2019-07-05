@@ -7,3 +7,6 @@ ret=os.access('foo.txt',os.W_OK)
 print('W_OK-返回值 {}'.format(ret))
 ret=os.access('foo.txt',os.X_OK)
 print('X_OK-返回值 {}'.format(ret))
+
+for line in open('foo.txt'):
+    print(line,end='')
